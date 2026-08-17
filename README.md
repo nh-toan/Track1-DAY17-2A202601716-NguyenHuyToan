@@ -19,7 +19,7 @@ Repo cá nhân này dùng để lưu toàn bộ kết quả bài lab theo 4 ch�
 
 - **Mã học viên (MHV):** `2A202601716`
 - **Họ và tên:** `Nguyễn Huy Toàn`
-- **Tên nhóm:** `<điền tên nhóm>`
+- **Tên nhóm:** `ChanToDe`
 - **Thành viên nhóm:** `Hoàng Bảo Huy - 2A202601440, Nguyễn Phi Hoàng - 2A202601818, Nguyễn Hải Yến - 2A202601604`
 - **Case đã chọn:** **Case C — AI Support Radar**
 
@@ -62,15 +62,15 @@ Evidence synthesis từ 4 interview hiện có nằm tại [`evidence/01_intervi
 
 # 5. AI Support Log
 
-| Hạng mục | AI đã hỗ trợ gì? | Điểm AI có thể sai / hời hợt | Tôi đã kiểm tra / chỉnh gì? |
-|---|---|---|---|
-| Nạp yêu cầu bài lab | Hỗ trợ đọc và tóm tắt yêu cầu Day 17, các chặng làm bài, ba case và tiêu chí nộp repo | AI có thể hiểu thiếu nếu chỉ dựa vào ảnh chụp màn hình | Tôi cung cấp đủ ảnh yêu cầu bài và xác nhận chọn Case C |
-| Problem framing | Hỗ trợ reverse-engineer Case C theo chuỗi `Solution → Change → Actor → Situation & Job → Pain → Evidence` | AI chỉ tạo hypothesis, chưa có evidence thật từ user | Tôi và team dùng interview với TA/learner để kiểm chứng |
-| Conversation Guide | Hỗ trợ chuyển Evidence Map thành câu hỏi phỏng vấn quá khứ, tránh hỏi ý kiến về solution | Một số câu có thể vẫn dẫn dắt hoặc vô tình nhắc V-Lab/feature | Tôi rà lại sau practice và sửa câu hỏi để neo vào episode cụ thể |
-| Transcript cleanup | Hỗ trợ làm sạch transcript TA 2, dựng lại transcript TA 1 từ trí nhớ theo format hội thoại | AI có thể làm câu chữ mượt hơn thực tế hoặc tạo cảm giác là quote nguyên văn | Tôi ghi rõ nguồn: TA 1 là reconstructed transcript, TA 2 là transcript được làm sạch; không dùng TA 1 như exact quote |
-| Interview synthesis | Hỗ trợ gom 4 nguồn interview thành pattern, evidence ủng hộ, evidence phản biện và competing hypothesis | AI có thể diễn giải quá tay hoặc biến practice evidence thành kết luận validated | Tôi giữ wording là “evidence làm hypothesis mạnh/yếu hơn”, không tuyên bố validated |
-| Reflection & revision | Hỗ trợ viết reflection Chặng 4 và đề xuất sửa Conversation Guide sau practice | AI không thể thay trải nghiệm thật của interviewer | Reflection dựa trên notes/recording/transcript trong `interview/` và synthesis trong `evidence/` |
-| Repo organization | Hỗ trợ chuẩn hóa tên file, index interview, README và checklist | AI có thể sắp xếp file không đúng yêu cầu lớp nếu thiếu context | Tôi kiểm tra lại cấu trúc repo, recording, notes và các mục còn thiếu trước khi nộp |
+| Hạng mục              | AI đã hỗ trợ gì?                                                                                              | Điểm AI có thể sai / hời hợt                                                            | Tôi đã kiểm tra / chỉnh gì?                                                                                                  |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Nạp yêu cầu bài lab | Hỗ trợ đọc và tóm tắt yêu cầu Day 17, các chặng làm bài, ba case và tiêu chí nộp repo             | AI có thể hiểu thiếu nếu chỉ dựa vào ảnh chụp màn hình                            | Tôi cung cấp đủ ảnh yêu cầu bài và xác nhận chọn Case C                                                                |
+| Problem framing         | Hỗ trợ reverse-engineer Case C theo chuỗi`Solution → Change → Actor → Situation & Job → Pain → Evidence` | AI chỉ tạo hypothesis, chưa có evidence thật từ user                                    | Tôi và team dùng interview với TA/learner để kiểm chứng                                                                    |
+| Conversation Guide      | Hỗ trợ chuyển Evidence Map thành câu hỏi phỏng vấn quá khứ, tránh hỏi ý kiến về solution            | Một số câu có thể vẫn dẫn dắt hoặc vô tình nhắc V-Lab/feature                     | Tôi rà lại sau practice và sửa câu hỏi để neo vào episode cụ thể                                                       |
+| Transcript cleanup      | Hỗ trợ làm sạch transcript TA 2, dựng lại transcript TA 1 từ trí nhớ theo format hội thoại              | AI có thể làm câu chữ mượt hơn thực tế hoặc tạo cảm giác là quote nguyên văn | Tôi ghi rõ nguồn: TA 1 là reconstructed transcript, TA 2 là transcript được làm sạch; không dùng TA 1 như exact quote |
+| Interview synthesis     | Hỗ trợ gom 4 nguồn interview thành pattern, evidence ủng hộ, evidence phản biện và competing hypothesis   | AI có thể diễn giải quá tay hoặc biến practice evidence thành kết luận validated    | Tôi giữ wording là “evidence làm hypothesis mạnh/yếu hơn”, không tuyên bố validated                                    |
+| Reflection & revision   | Hỗ trợ viết reflection Chặng 4 và đề xuất sửa Conversation Guide sau practice                             | AI không thể thay trải nghiệm thật của interviewer                                      | Reflection dựa trên notes/recording/transcript trong`interview/` và synthesis trong `evidence/`                             |
+| Repo organization       | Hỗ trợ chuẩn hóa tên file, index interview, README và checklist                                              | AI có thể sắp xếp file không đúng yêu cầu lớp nếu thiếu context                   | Tôi kiểm tra lại cấu trúc repo, recording, notes và các mục còn thiếu trước khi nộp                                   |
 
 ---
 
