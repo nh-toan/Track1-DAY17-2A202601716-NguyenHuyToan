@@ -2,8 +2,6 @@
 
 ## Case C — AI Support Radar
 
-> **Đổi tên repo trước khi nộp:** `Track1_Day17_MHV_HoVaTen`
-
 Repo cá nhân này dùng để lưu toàn bộ kết quả bài lab theo 4 chặng:
 
 1. Problem Hypothesis
@@ -77,7 +75,7 @@ Evidence synthesis từ 4 interview hiện có nằm tại [`evidence/01_intervi
 # Repo structure
 
 ```text
-Track1_Day17_MHV_HoVaTen/
+Day17-2A202601716-NguyenHuyToan/
 ├── README.md
 ├── .gitignore
 ├── docs/
@@ -107,26 +105,15 @@ Track1_Day17_MHV_HoVaTen/
 Nếu có file ghi âm cục bộ, đặt một trong các file sau vào `interview/`:
 
 ```text
-recording.m4a
-recording.mp3
-recording.mp4
+Monday at 12_05_03 pm_1.m
+recording02017.mp3
+VinUniversity 3.mp4
 ```
-
-Nếu file nằm trên Drive/nền tảng nội bộ, điền link vào:
-
-[`interview/recording_link.md`](interview/recording_link.md)
-
-Link phải mở được với giảng viên/TA theo yêu cầu của lớp và không cần để công khai toàn Internet.
-
----
 
 # Trạng thái
 
 - [X] Chặng 1 — Problem Hypothesis
 - [X] Chặng 2 — Conversation Guide bản chuẩn bị
 - [X] Chặng 3 — Interview Practice thực tế
-- [X] Chặng 4 — Reflection & Revision
-- [ ] Thay placeholder MHV / Họ tên / Nhóm
-- [X] Thêm recording hoặc recording link
+- [X] Chặng 4 — Reflection & RevisionThêm recording hoặc recording link
 - [X] Chỉnh Conversation Guide sau practice
-- [ ] Kiểm tra checklist trước khi nộp
