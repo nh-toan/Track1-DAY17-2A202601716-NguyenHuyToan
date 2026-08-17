@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary
+*.tmp
+*.log
+
+# Optional raw/sensitive materials
+evidence/raw/
+
+# Keep final interview recording only if intentionally submitting it.
